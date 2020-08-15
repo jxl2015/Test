@@ -30,4 +30,7 @@ Other notes:
 AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
+
+200814：
+  重新试打开Project，试更新一下Readme。
 /////////////////////////////////////////////////////////////////////////////
